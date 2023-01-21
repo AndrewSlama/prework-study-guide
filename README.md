@@ -1,5 +1,4 @@
 # Prework Study Guide Webpage
-# <Your-Project-Title>
 
 ## Description
 
